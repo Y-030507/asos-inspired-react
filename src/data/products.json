@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Cotton T-Shirt",
+    "price": 25.99,
+    "category": "Men",
+    "color": "Navy Blue",
+    "size": ["S", "M", "L", "XL"],
+    "description": "A comfortable, breathable cotton t-shirt perfect for casual outings or layering under jackets.",
+    "images": ["/images/product1.jpg", "/images/product1-alt.jpg"]
+  },
+  {
+    "id": 2,
+    "name": "Elegant Floral Dress",
+    "price": 49.99,
+    "category": "Women",
+    "color": "Floral Print",
+    "size": ["XS", "S", "M", "L"],
+    "description": "A flowy floral dress with a cinched waist, ideal for summer events or everyday elegance.",
+    "images": ["/images/product2.jpg"]
+  },
+  {
+    "id": 3,
+    "name": "Discounted Denim Jeans",
+    "price": 39.99,
+    "category": "Sale",
+    "color": "Dark Wash",
+    "size": ["28", "30", "32", "34"],
+    "description": "High-quality denim jeans with a slim fit, now on sale for a limited time.",
+    "images": ["/images/product3.jpg"]
+  },
+  {
+    "id": 4,
+    "name": "Trendy Hoodie",
+    "price": 35.99,
+    "category": "New Arrivals",
+    "color": "Gray",
+    "size": ["S", "M", "L"],
+    "description": "A cozy hoodie with a modern design, featuring a kangaroo pocket and adjustable hood.",
+    "images": ["/images/product4.jpg"]
+  },
+  {
+    "id": 5,
+    "name": "Stylish Blazer",
+    "price": 79.99,
+    "category": "Women",
+    "color": "Black",
+    "size": ["S", "M", "L"],
+    "description": "A tailored blazer that adds sophistication to any outfit, with button closures and slim sleeves.",
+    "images": ["/images/product5.jpg"]
+  },
+  {
+    "id": 6,
+    "name": "Casual Sneakers",
+    "price": 59.99,
+    "category": "Men",
+    "color": "White",
+    "size": ["8", "9", "10", "11"],
+    "description": "Lightweight sneakers with cushioned soles, great for walking or sports activities.",
+    "images": ["/images/product6.jpg"]
+  },
+  {
+    "id": 7,
+    "name": "Summer Maxi Skirt",
+    "price": 29.99,
+    "category": "Women",
+    "color": "Pastel Pink",
+    "size": ["XS", "S", "M"],
+    "description": "A flowing maxi skirt with an elastic waistband, perfect for warm weather and beach days.",
+    "images": ["/images/product7.jpg"]
+  },
+  {
+    "id": 8,
+    "name": "Athletic Shorts",
+    "price": 19.99,
+    "category": "Sale",
+    "color": "Black",
+    "size": ["S", "M", "L", "XL"],
+    "description": "Breathable athletic shorts with moisture-wicking fabric, ideal for workouts or lounging.",
+    "images": ["/images/product8.jpg"]
+  },
+  {
+    "id": 9,
+    "name": "Vintage-Inspired Jacket",
+    "price": 69.99,
+    "category": "New Arrivals",
+    "color": "Brown Leather",
+    "size": ["M", "L", "XL"],
+    "description": "A retro-style jacket with faux leather finish, featuring zippered pockets and a stand-up collar.",
+    "images": ["/images/product9.jpg"]
+  },
+  {
+    "id": 10,
+    "name": "Cozy Sweater",
+    "price": 45.99,
+    "category": "Men",
+    "color": "Charcoal",
+    "size": ["S", "M", "L"],
+    "description": "A soft knit sweater with ribbed cuffs, perfect for layering in cooler seasons.",
+    "images": ["/images/product10.jpg"]
+  },
+  {
+    "id": 11,
+    "name": "Boho Scarf",
+    "price": 15.99,
+    "category": "Women",
+    "color": "Multicolor",
+    "size": ["One Size"],
+    "description": "A lightweight scarf with bohemian patterns, adding flair to any ensemble.",
+    "images": ["/images/product11.jpg"]
+  },
+  {
+    "id": 12,
+    "name": "Performance Leggings",
+    "price": 34.99,
+    "category": "New Arrivals",
+    "color": "Black",
+    "size": ["XS", "S", "M", "L"],
+    "description": "High-performance leggings with compression fit, designed for yoga or running.",
+    "images": ["/images/product12.jpg"]
+  }
+]
