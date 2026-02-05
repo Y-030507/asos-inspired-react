@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/asos-inspired-react/static/css/main.0148777c.css",
+    "main.js": "/asos-inspired-react/static/js/main.20106b59.js",
+    "static/js/453.c8c87468.chunk.js": "/asos-inspired-react/static/js/453.c8c87468.chunk.js",
+    "index.html": "/asos-inspired-react/index.html",
+    "main.0148777c.css.map": "/asos-inspired-react/static/css/main.0148777c.css.map",
+    "main.20106b59.js.map": "/asos-inspired-react/static/js/main.20106b59.js.map",
+    "453.c8c87468.chunk.js.map": "/asos-inspired-react/static/js/453.c8c87468.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0148777c.css",
+    "static/js/main.20106b59.js"
+  ]
+}
